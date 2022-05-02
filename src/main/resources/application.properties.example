@@ -1,0 +1,6 @@
+dataset.baseDir=
+
+# tightly-coupled with the HN dataset datetime format
+dateTime.pattern=yyyy-MM-dd HH:mm:ss
+
+algorithm.topk.spaceSaving.error=0.00001
